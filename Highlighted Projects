@@ -1,0 +1,34 @@
+        <!-- Highlighted Projects Section -->
+        <div class="projects-container">
+            <h2 style="text-align: center; margin-bottom: 2rem;">Highlighted Projects</h2>
+            
+            <section class="project">
+                <a href="https://github.com/yourusername/CSCE190-SkateSpotFinder">
+                    <h3>SkateSpot Finder App</h3>
+                </a>
+                <a href="https://github.com/yourusername/CSCE190-SkateSpotFinder">
+                    <img src="images/skatespot-project.png" alt="SkateSpot Finder Project">
+                </a>
+                <p>Columbia skate spot mapping application - find and share local skateboarding locations with real-time updates and user reviews.</p>
+            </section>
+            
+            <section class="project">
+                <a href="https://github.com/yourusername/CSCE206-Projects">
+                    <h3>CSCE 206 Projects</h3>
+                </a>
+                <a href="https://github.com/yourusername/CSCE206-Projects">
+                    <img src="images/csce206-projects.png" alt="CSCE 206 Projects">
+                </a>
+                <p>Collection of C programming projects including data structures, algorithms, and system-level programming assignments.</p>
+            </section>
+            
+            <section class="project">
+                <a href="https://github.com/yourusername/Algorithmic-Design">
+                    <h3>Algorithmic Design Projects</h3>
+                </a>
+                <a href="https://github.com/yourusername/Algorithmic-Design">
+                    <img src="images/algorithmic-design.png" alt="Algorithmic Design Projects">
+                </a>
+                <p>Advanced algorithm implementations and computational problem-solving projects with complexity analysis and optimization.</p>
+            </section>
+        </div>
