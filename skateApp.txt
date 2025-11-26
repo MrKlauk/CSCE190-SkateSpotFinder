@@ -1,0 +1,19 @@
+public class SkateSpotFinder {
+    public static void main(String[] args) {
+        System.out.println("=== SkateSpot Finder ===");
+        
+        String[] skateSpots = {
+            "Columbia Skate Park",
+            "Five Points DIY Spot",
+            "USC Campus Ledges",
+            "Main Street Rails"
+        };
+        
+        System.out.println("\nColumbia Skate Spots:");
+        for (int i = 0; i < skateSpots.length; i++) {
+            System.out.println((i+1) + ". " + skateSpots[i]);
+        }
+        
+        System.out.println("\nApp functionality: Find local skate spots");
+    }
+}
